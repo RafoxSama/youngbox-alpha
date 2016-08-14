@@ -1,0 +1,57 @@
+{
+    "name": "cakephp/app",
+    "description": "CakePHP skeleton app",
+    "homepage": "http://cakephp.org",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.9",
+        "cakephp/cakephp": "~3.2",
+        "mobiledetect/mobiledetectlib": "2.*",
+        "cakephp/migrations": "~1.0",
+        "cakephp/plugin-installer": "*",
+        "oldskool/whoops-cakephp": "^2.1",
+        "xety/cake3-sluggable": "^1.2",
+        "xety/cake3-cookieauth": "1.*",
+        "xety/cake3-upload": "^1.2",
+        "michelf/php-markdown": "^1.6",
+        "intervention/image": "^2.3",
+        "cakephp/elastic-search": "^0.3.4",
+        "google/recaptcha": "^1.1",
+        "facebook/php-sdk-v4": "4.0.*",
+        "abraham/twitteroauth": "^0.6.4",
+        "google/apiclient": "^2.0",
+        "ritero/twitch-sdk": "^1.1",
+        "cakephp-fr/recaptcha": "^0.4.2",
+        "nojimage/twitter-text-php": "^1.1",
+        "ezyang/htmlpurifier": "^4.8",
+        "admad/cakephp-hybridauth": "^4.0"
+    },
+    "require-dev": {
+        "psy/psysh": "@stable",
+        "cakephp/debug_kit": "~3.2",
+        "cakephp/bake": "~1.1"
+    },
+    "suggest": {
+        "phpunit/phpunit": "Allows automated tests to be run without system-wide install.",
+        "cakephp/cakephp-codesniffer": "Allows to check the code against the coding standards used in CakePHP."
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Test\\": "tests",
+            "Cake\\Test\\": "./vendor/cakephp/cakephp/tests"
+        }
+    },
+    "scripts": {
+        "post-install-cmd": "App\\Console\\Installer::postInstall",
+        "post-create-project-cmd": "App\\Console\\Installer::postInstall",
+        "post-autoload-dump": "Cake\\Composer\\Installer\\PluginInstaller::postAutoloadDump"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

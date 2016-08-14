@@ -1,0 +1,124 @@
+.after-header{
+  padding-top: 25px;
+}
+.news-content{
+  padding: 10px 11px!important;
+}
+
+@media only screen and (max-width: 994px) {
+    .news-thumb{
+        display: none!important;
+    }
+}
+.right{
+  float: right;
+}
+.left-filter{
+  padding: 0px 3px;
+}
+.news-meta {
+    color: #9e9e9e;
+    font-size: 11px!important;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+.filter-cat-icon{
+  margin-top: 0;
+  margin-left: 0;
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin-right: .78571429rem;
+  bottom: 3px;
+  position: relative;
+  display: inline;
+}
+.cat-icon{
+  margin-top: 0;
+  margin-left: 0;
+  float: left;
+  width: 16px;
+  height: 16px;
+  top: 0.5px;
+  margin-right: .58571429rem;
+  position: relative;
+  display: inline;
+  line-height: 0;
+}
+.ui.items > .item .extra > a{
+    margin: .25rem .2rem .25rem 0;
+}
+a .ui.label:hover{
+  background: #CACBCD;
+}
+.cat-text{
+  line-height: 19px!important;
+}
+.yb{
+  background: url(/../../images/cat/logo.svg) no-repeat;
+}
+
+.gaming{
+  background: url(/../../images/cat/gaming.svg) no-repeat;
+}
+.informatique{
+  background: url(/../../images/cat/informatique.svg) no-repeat;
+
+}
+.sport{
+  background: url(/../../images/cat/sport.svg) no-repeat;
+
+}
+.musique{
+  background: url(/../../images/cat/musique.svg) no-repeat;
+
+}
+.anime{
+  background: url(/../../images/cat/anime.svg) no-repeat;
+
+}
+.serie{
+  background: url(/../../images/cat/serie.svg) no-repeat;
+
+}
+.CodeMirror, .CodeMirror-scroll {
+    min-height: 150px;
+}
+.ui.dropdown .menu > a > .item {
+    position: relative;
+    cursor: pointer;
+    display: block;
+    border: none;
+    height: auto;
+    text-align: left;
+    border-top: none;
+    line-height: 1em;
+    color: rgba(0,0,0,.87);
+    padding: .78571429rem 1.14285714rem!important;
+    font-size: 1rem;
+    text-transform: none;
+    font-weight: 400;
+    box-shadow: none;
+    -webkit-touch-callout: none;
+}
+.ui.dropdown .menu > a > .item:hover {
+    background: rgba(0,0,0,.05);
+    color: rgba(0,0,0,.95);
+    z-index: 13;
+}
+.ui.items>.item a > img{
+  border-radius: 5px;
+border: 3px solid #EDEDED;
+}
+.ui.items>.item a > img:hover,
+.ui.items>.item a > img:focus{
+  border: 3px solid #4a89dc;
+}
+.comment-edit{
+    font-size: 12px;
+    color: #2185d0;
+}
+.comment-delete{
+    font-size: 12px;
+    color: #DB2828;
+}

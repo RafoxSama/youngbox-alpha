@@ -1,0 +1,95 @@
+
+.home-anim {
+    position: absolute;
+    z-index: 20;
+    top: 50px;
+    right: 0;
+}
+.home-anim-computer {
+    position: absolute;
+    top: 0;
+    right: 75px;
+    height: 235px;
+    width: 402px
+}
+.home-anim-logo{
+    position: absolute;
+    top: 30px;
+    right: 210px;
+    height: 150px;
+    width: 135px;
+}
+.home-anim-bules{
+    position: absolute;
+    top: -35px;
+    z-index: -1;
+    right: 105px;
+    height: 309px;
+    width: 500px;
+}
+.home-anim-minibule{
+  position: absolute;
+  top: -50px;
+  right: 290px;
+  height: 110px;
+}
+.home-anim-minibule-second{
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  height: 105px;
+}
+.home-anim-smile{
+  position: absolute;
+  top: -50px;
+  right: 25px;
+  height: 91px;
+  z-index: -1;
+}
+.home-anim-ybtv{
+  position: absolute;
+  top: 50px;
+  right: 66px;
+  height: 174px;
+  z-index: 20;
+}
+.anim-container-news{
+  display: block;
+  position: absolute;
+  width: 296px;
+  height: 188px;
+  top: 13px;
+  right: 129px;
+  overflow: hidden;
+}
+.home-anim-news{
+  position: absolute;
+  height: 115px;
+  right: 188px;
+  top: 79px;
+}
+@media only screen and (max-width: 1200px)
+{
+.home-anim {
+  top: 65px;
+  transform: scale(.8);
+  right: 0;
+  }
+  .home-anim-bules #bubule{
+    display: none;
+  }
+}
+@media only screen and (max-width: 991px)
+{
+.home-anim {
+  display: none;
+  }
+  .ui.labeled.icon.button, .ui.labeled.icon.buttons .button .home-btn-full{
+      min-width: 100%;
+      margin: 5px 0px;
+    }
+
+}
+.fix-index{
+  z-index: 21;
+}

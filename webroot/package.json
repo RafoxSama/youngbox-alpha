@@ -1,0 +1,11 @@
+{
+  "name": "Youngbox",
+  "version": "1.0.0",
+  "description": "my youngbox project",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0"
+  }
+}

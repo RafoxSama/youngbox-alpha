@@ -1,0 +1,171 @@
+.header-title {
+    padding-top: 45px;
+    font-size: 35px;
+    color: #FFF;
+    font-weight: bold;
+    position: relative;
+}
+@media  only screen and (max-width: 537px) {
+  .header-title {
+    padding-top: 10px;
+    font-size: 35px;
+    line-height: 45px;
+    color: #FFF;
+    font-weight: 700;
+    position: relative;
+}
+
+}
+.content-gray {
+    background-color: #f4f6f9;
+    padding: 10px 0 25px;
+    border-bottom: 3px solid #ececec;
+}
+.tv.header-mirror{
+  background-color: #fff;
+  border: none;
+  height: 190px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+
+}
+.tv.header-mirror::after{
+  height: 10px;
+}
+
+.owl-carousel .item {
+    height: 190px;
+    background: none repeat scroll 0% 0%;
+    padding: 5px;
+}
+
+.owl-carousel .item h3 {
+    color: #FFF;
+    font-weight: bold;
+    margin: 0rem;
+}
+.tv.ui.segment{
+  padding: 0;
+  overflow: hidden;
+  min-height: 180px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  -moz-transition-duration: .3s;
+-o-transition-duration: .3s;
+-webkit-transition-duration: .3s;
+transition-duration: .3s;
+}
+.tv.ui.segment:focus,
+.tv.ui.segment:hover{
+  padding: 0;
+  overflow: hidden;
+  min-height: 180px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+.tv.ui.segment .title-info p{
+  opacity: 0.7;
+  -moz-transition-duration: .3s;
+-o-transition-duration: .3s;
+-webkit-transition-duration: .3s;
+transition-duration: .3s;
+}
+.tv.ui.segment:focus .title-info p,
+.tv.ui.segment:hover .title-info p{
+  opacity: 1;
+}
+.tv .title-info{
+  position: absolute;
+  display: block;
+  bottom: 0;
+  padding: 2px 7px;
+  color: #fff;
+}
+.owl-theme .owl-controls{
+  width: 100%;
+  height: 0;
+}
+.owl-nav{
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  height: 0;
+}
+.owl-theme .owl-controls .owl-nav .owl-prev{
+  float: left;
+  right: 14px;
+  position: relative;
+  padding: 10px 4px;
+  background: #2185D0;
+}
+.owl-theme .owl-controls .owl-nav .owl-prev:focus,
+.owl-theme .owl-controls .owl-nav .owl-prev:hover{
+  background: #1678c2;
+}
+.owl-theme .owl-controls .owl-nav .owl-next{
+  float: right;
+  left: 14px;
+  position: relative;
+  padding: 10px 4px;
+  background: #2185D0;
+}
+.owl-theme .owl-controls .owl-nav .owl-next:focus,
+.owl-theme .owl-controls .owl-nav .owl-next:hover{
+  background: #1678c2;
+
+}
+.icon.right{
+  float: none;
+}
+
+.player {
+  width: 100%;
+  height: 725px;
+  background: #6f6f6f;
+  padding: 25px 40px;
+}
+.ui.container.ui-player{
+  height: 100%;
+}
+.player-container{
+  width: 100%;
+  height: 100%;
+  max-height: 648px;
+}
+.player-compact{
+    width: 100%;
+    height: 100%;
+}
+@media  only screen and (max-width: 537px) {
+  .player {
+    height: 968px;
+  }
+}
+@media  only screen and (max-width: 765px) {
+  .player {
+    height: 420px;
+  }
+}
+@media  only screen and (max-width: 765px) {
+  .player {
+    height: 420px;
+    padding: 0;
+  }
+}
+@media  only screen and (max-width: 468px) {
+  .player {
+    height: 247px;
+  }
+}
+@media  only screen and (max-width: 320px) {
+  .player {
+    height: 165px;
+  }
+}
+.video-comments{
+    padding: 25px 0;
+    background-color: #f4f6f9;
+    border-bottom: 3px solid #ececec;
+}
