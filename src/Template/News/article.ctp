@@ -19,7 +19,7 @@
                 </span>
         </div>
   <div class="ui divider"></div>
-  <div class="formatted">
+  <div class="formatted markdown-body">
     <?= $parser->transform($article->content); ?>
   </div>
   <div class="ui divider"></div>
