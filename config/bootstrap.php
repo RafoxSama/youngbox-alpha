@@ -228,3 +228,5 @@ Type::build('datetime')
 Plugin::load('Recaptcha', ['bootstrap' => true, 'routes' => true]);
 
 Plugin::load('ADmad/HybridAuth', ['bootstrap' => true, 'routes' => true]);
+
+Plugin::load('Muffin/OAuth2');
