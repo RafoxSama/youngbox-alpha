@@ -76,6 +76,7 @@ try {
     Configure::config('default', new PhpConfig());
     Configure::load('app', 'default', false);
     Configure::load('youngbox', 'default');
+    Configure::load('oauth2', 'default');
 } catch (\Exception $e) {
     exit($e->getMessage() . "\n");
 }
@@ -226,7 +227,3 @@ Type::build('datetime')
     ->useImmutable();
 
 Plugin::load('Recaptcha', ['bootstrap' => true, 'routes' => true]);
-
-Plugin::load('ADmad/HybridAuth', ['bootstrap' => true, 'routes' => true]);
-
-Plugin::load('Muffin/OAuth2');
