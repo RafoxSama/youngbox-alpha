@@ -29,7 +29,8 @@
         "muffin/oauth2": "dev-master",
         "league/oauth2-facebook": "^1.4",
         "league/oauth2-google": "^1.0",
-        "depotwarehouse/oauth2-twitch": "^1.3"
+        "depotwarehouse/oauth2-twitch": "^1.3",
+        "team-reflex/oauth2-discord": "^1.0"
     },
     "require-dev": {
         "psy/psysh": "@stable",
