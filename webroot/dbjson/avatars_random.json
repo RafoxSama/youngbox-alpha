@@ -1,0 +1,74 @@
+{
+  "avatars": [
+    {
+      "id": "1",
+      "name": "Random1",
+      "genre": "For Random1",
+      "file": "/images/avatars/randoms/random_ava1.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "2",
+      "name": "Random2",
+      "genre": "For Random2",
+      "file": "/images/avatars/randoms/random_ava2.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "3",
+      "name": "Random3",
+      "genre": "For Random3",
+      "file": "/images/avatars/randoms/random_ava3.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "4",
+      "name": "Random4",
+      "genre": "For Random4",
+      "file": "/images/avatars/randoms/random_ava4.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "5",
+      "name": "Random5",
+      "genre": "For Random5",
+      "file": "/images/avatars/randoms/random_ava5.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "6",
+      "name": "Random6",
+      "genre": "For Random6",
+      "file": "/images/avatars/randoms/random_ava6.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "7",
+      "name": "Random7",
+      "genre": "For Random7",
+      "file": "/images/avatars/randoms/random_ava7.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "8",
+      "name": "Random8",
+      "genre": "For Random8",
+      "file": "/images/avatars/randoms/random_ava8.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "9",
+      "name": "Random9",
+      "genre": "For Random9",
+      "file": "/images/avatars/randoms/random_ava9.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "10",
+      "name": "Random10",
+      "genre": "For Random10",
+      "file": "/images/avatars/randoms/random_ava10.jpg",
+      "class": "normal"
+    }
+  ]
+}

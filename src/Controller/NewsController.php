@@ -6,6 +6,7 @@ use Cake\Core\Configure;
 use Cake\Event\Event;
 use Cake\Network\Exception\NotFoundException;
 use Cake\Routing\Router;
+use Cake\Cache\Cache;
 use \Michelf\MarkdownExtra;
 
 
@@ -19,6 +20,7 @@ class NewsController extends AppController
 
   public function index()
   {
+    
       $this->loadModel('NewsArticles');
 
       $this->paginate = [

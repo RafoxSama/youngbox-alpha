@@ -1,6 +1,6 @@
 <div class="sidebar" style="display: block;">
   <div class="sidebar-username">
-    Rafox
+    <?= h($this->request->session()->read('Auth.User.username')) ?>
   </div>
         <div class="sidebar-avatar">
           <img src="<?= h($this->request->session()->read('Auth.User.avatar')) ?>" alt="<?= h($this->request->session()->read('Auth.User.id')) ?>">

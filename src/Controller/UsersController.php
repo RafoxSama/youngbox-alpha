@@ -12,6 +12,7 @@ use Cake\Network\Email\Email;
 
 class UsersController extends AppController
 {
+  public $components = ['Account'];
 
     /**
      * Initialize handle.
@@ -126,6 +127,7 @@ class UsersController extends AppController
                     $userRegister->register_ip = $this->request->clientIp();
                     $userRegister->last_login_ip = $this->request->clientIp();
                     $userRegister->username = ucfirst($userRegister->username);
+                    $userRegister->avatar = $this->Account->avatar(rand(0,9));
                     $userRegister->last_login = new Time();
                     $userRegister->mail_token = md5(rand() . uniqid() . time());
                     if ($this->Recaptcha->verify()) {

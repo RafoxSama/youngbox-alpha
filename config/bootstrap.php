@@ -76,7 +76,6 @@ try {
     Configure::config('default', new PhpConfig());
     Configure::load('app', 'default', false);
     Configure::load('youngbox', 'default');
-    Configure::load('oauth2', 'default');
 } catch (\Exception $e) {
     exit($e->getMessage() . "\n");
 }

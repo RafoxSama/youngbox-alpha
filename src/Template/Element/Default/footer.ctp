@@ -39,8 +39,7 @@
                     </p>
       </div>
       <div class="six wide column">
-              <?php //  $this->cell('Lasttweet::display', [], ['cache' => ['config' => 'cache_tweets']]) ?>
-        <?= $this->cell('Lasttweet::display') ?>
+              <?=  $this->cell('Lasttweet::display', [], ['cache' => ['config' => 'cache_tweets']]) ?>
       </div>
       <div class="five wide column">
           <a class="footer_title" href="/contact">Nous contacter</a>

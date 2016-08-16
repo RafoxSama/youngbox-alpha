@@ -1,0 +1,424 @@
+{
+  "avatars": [
+    {
+      "id": "1",
+      "name": "Avatar1",
+      "genre": "For Avatar1",
+      "file": "ava_1.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "2",
+      "name": "Avatar2",
+      "genre": "For Avatar2",
+      "file": "ava_2.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "3",
+      "name": "Avatar3",
+      "genre": "For Avatar3",
+      "file": "ava_3.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "4",
+      "name": "Avatar4",
+      "genre": "For Avatar4",
+      "file": "ava_4.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "5",
+      "name": "Avatar5",
+      "genre": "For Avatar5",
+      "file": "ava_5.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "6",
+      "name": "Avatar6",
+      "genre": "For Avatar6",
+      "file": "ava_6.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "7",
+      "name": "Avatar7",
+      "genre": "For Avatar7",
+      "file": "ava_7.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "8",
+      "name": "Avatar8",
+      "genre": "For Avatar8",
+      "file": "ava_8.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "9",
+      "name": "Avatar9",
+      "genre": "For Avatar9",
+      "file": "ava_9.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "10",
+      "name": "Avatar10",
+      "genre": "For Avatar10",
+      "file": "ava_10.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "11",
+      "name": "Avatar11",
+      "genre": "For Avatar11",
+      "file": "ava_11.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "12",
+      "name": "Avatar12",
+      "genre": "For Avatar12",
+      "file": "ava_12.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "13",
+      "name": "Avatar13",
+      "genre": "For Avatar13",
+      "file": "ava_13.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "14",
+      "name": "Avatar14",
+      "genre": "For Avatar14",
+      "file": "ava_14.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "15",
+      "name": "Avatar15",
+      "genre": "For Avatar15",
+      "file": "ava_15.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "16",
+      "name": "Avatar16",
+      "genre": "For Avatar16",
+      "file": "ava_16.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "17",
+      "name": "Avatar17",
+      "genre": "For Avatar17",
+      "file": "ava_17.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "18",
+      "name": "Avatar18",
+      "genre": "For Avatar18",
+      "file": "ava_18.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "19",
+      "name": "Avatar19",
+      "genre": "For Avatar19",
+      "file": "ava_19.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "20",
+      "name": "Avatar20",
+      "genre": "For Avatar20",
+      "file": "ava_20.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "21",
+      "name": "Avatar21",
+      "genre": "For Avatar21",
+      "file": "ava_21.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "22",
+      "name": "Avatar22",
+      "genre": "For Avatar22",
+      "file": "ava_22.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "23",
+      "name": "Avatar23",
+      "genre": "For Avatar23",
+      "file": "ava_23.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "24",
+      "name": "Avatar24",
+      "genre": "For Avatar24",
+      "file": "ava_24.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "25",
+      "name": "Avatar25",
+      "genre": "For Avatar25",
+      "file": "ava_25.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "26",
+      "name": "Avatar26",
+      "genre": "For Avatar26",
+      "file": "ava_26.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "27",
+      "name": "Avatar27",
+      "genre": "For Avatar27",
+      "file": "ava_27.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "28",
+      "name": "Avatar28",
+      "genre": "For Avatar28",
+      "file": "ava_28.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "29",
+      "name": "Avatar29",
+      "genre": "For Avatar29",
+      "file": "ava_29.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "30",
+      "name": "Avatar30",
+      "genre": "For Avatar30",
+      "file": "ava_30.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "31",
+      "name": "Avatar31",
+      "genre": "For Avatar31",
+      "file": "ava_31.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "32",
+      "name": "Avatar32",
+      "genre": "For Avatar32",
+      "file": "ava_32.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "33",
+      "name": "Avatar33",
+      "genre": "For Avatar33",
+      "file": "ava_33.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "34",
+      "name": "Avatar34",
+      "genre": "For Avatar34",
+      "file": "ava_34.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "35",
+      "name": "Avatar35",
+      "genre": "For Avatar35",
+      "file": "ava_35.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "36",
+      "name": "Avatar36",
+      "genre": "For Avatar36",
+      "file": "ava_36.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "37",
+      "name": "Avatar37",
+      "genre": "For Avatar37",
+      "file": "ava_37.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "38",
+      "name": "Avatar38",
+      "genre": "For Avatar38",
+      "file": "ava_38.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "39",
+      "name": "Avatar39",
+      "genre": "For Avatar39",
+      "file": "ava_39.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "40",
+      "name": "Avatar40",
+      "genre": "For Avatar40",
+      "file": "ava_40.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "41",
+      "name": "Avatar41",
+      "genre": "For Avatar41",
+      "file": "ava_41.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "42",
+      "name": "Avatar42",
+      "genre": "For Avatar42",
+      "file": "ava_42.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "43",
+      "name": "Avatar43",
+      "genre": "For Avatar43",
+      "file": "ava_43.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "44",
+      "name": "Avatar44",
+      "genre": "For Avatar44",
+      "file": "ava_44.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "45",
+      "name": "Avatar45",
+      "genre": "For Avatar45",
+      "file": "ava_45.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "46",
+      "name": "Avatar46",
+      "genre": "For Avatar46",
+      "file": "ava_46.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "47",
+      "name": "Avatar47",
+      "genre": "For Avatar47",
+      "file": "ava_47.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "48",
+      "name": "Avatar48",
+      "genre": "For Avatar48",
+      "file": "ava_48.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "49",
+      "name": "Avatar49",
+      "genre": "For Avatar49",
+      "file": "ava_49.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "50",
+      "name": "Avatar50",
+      "genre": "For Avatar50",
+      "file": "ava_50.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "51",
+      "name": "Avatar51",
+      "genre": "For Avatar51",
+      "file": "ava_51.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "52",
+      "name": "Avatar52",
+      "genre": "For Avatar52",
+      "file": "ava_52.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "53",
+      "name": "Avatar53",
+      "genre": "For Avatar53",
+      "file": "ava_53.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "54",
+      "name": "Avatar54",
+      "genre": "For Avatar54",
+      "file": "ava_54.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "55",
+      "name": "Avatar55",
+      "genre": "For Avatar55",
+      "file": "ava_55.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "56",
+      "name": "Avatar56",
+      "genre": "For Avatar56",
+      "file": "ava_56.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "57",
+      "name": "Avatar57",
+      "genre": "For Avatar57",
+      "file": "ava_57.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "58",
+      "name": "Avatar58",
+      "genre": "For Avatar58",
+      "file": "ava_58.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "59",
+      "name": "Avatar59",
+      "genre": "For Avatar59",
+      "file": "ava_59.jpg",
+      "class": "normal"
+    },
+    {
+      "id": "60",
+      "name": "Avatar60",
+      "genre": "For Avatar60",
+      "file": "ava_60.jpg",
+      "class": "normal"
+    }
+  ]
+}
